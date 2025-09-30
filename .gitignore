@@ -18,6 +18,8 @@ __pycache__/
 vosk-model-*
 /tts/piper/
 /wakewords/
+/models/
+/tts/voices/
 
 # Audio files
 *.wav
