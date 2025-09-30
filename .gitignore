@@ -1,3 +1,23 @@
+# Environments
 venv/
-
 .env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Download identifiers
+*.zip:Zone.Identifier
+
+# Models (should be downloaded separately, not stored in Git)
+vosk-model-*
+/tts/piper/
+/wakewords/
+
+# Audio files
+*.wav

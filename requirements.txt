@@ -1,0 +1,6 @@
+requests
+pyserial
+vosk
+pyaudio
+pvporcupine
+simpleaudio
